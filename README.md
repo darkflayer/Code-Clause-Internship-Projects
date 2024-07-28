@@ -20,6 +20,7 @@ Description: This project aims to identify and classify crop diseases using imag
 Getting Started
 Clone the repository to get started with the projects:
 git clone https://github.com/darkflayer/Code-Clause-Internship-Projects.git
+
 cd Code-Clause-Internship-Projects
 
 Contributing
