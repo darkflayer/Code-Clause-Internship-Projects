@@ -29,3 +29,10 @@ This project aims to develop a time series forecasting model to predict the dema
 
 - ## Results
 The mean squared error (MSE) for the forecasting model is calculated.
+
+![Screenshot (834)](https://github.com/user-attachments/assets/b39ae9fc-c6bf-472c-914d-776d27186f80)
+![Screenshot (835)](https://github.com/user-attachments/assets/e0aa9172-8757-4209-af80-40a96e583d2f)
+![Screenshot (836)](https://github.com/user-attachments/assets/dfbdad9d-6d8b-476a-89f0-2f4e659b2a1c)
+
+
+
