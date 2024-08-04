@@ -61,8 +61,5 @@ For detailed results, refer to the `results/` directory.
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. For detailed contribution guidelines, refer to `CONTRIBUTING.md`.
 
 
-![Screenshot (829)](https://github.com/user-attachments/assets/54141b3e-87cb-46b8-be27-61d75656c276)
-![Screenshot (830)](https://github.com/user-attachments/assets/b769c7d4-adf2-40ec-a91c-b3a7c8d70dd7)
-![Screenshot (831)](https://github.com/user-attachments/assets/5d06571b-0c83-430b-b785-8601ad1db385)
-![Screenshot (832)](https://github.com/user-attachments/assets/f2de07a9-d277-4e37-9f59-b364f3121d62)
-![Screenshot (833)](https://github.com/user-attachments/assets/e6c6425d-a7e4-4dcb-ac33-89b3466026ab)
+
+![Screenshot (829)](https://github.com/user-attachments/assets/27a2860b-30c4-4166-9374-43cacbaa688a)
