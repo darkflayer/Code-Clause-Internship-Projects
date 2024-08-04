@@ -62,4 +62,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 
 
-![Screenshot (829)](https://github.com/user-attachments/assets/27a2860b-30c4-4166-9374-43cacbaa688a)
+[Screenshot (829)](https://github.com/user-attachments/assets/69b1bcc9-f933-4ec1-8f47-21db6826f88e)
+
