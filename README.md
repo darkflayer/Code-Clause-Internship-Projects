@@ -12,7 +12,7 @@ Demand Forecasting for a Retail Store
 Description: This project focuses on predicting future demand for products in a retail store. Techniques such as time series analysis and forecasting models are used to make accurate predictions and optimize inventory management.
 Golden Task (One of the Following)
 
-Movie Recommendation System
+Movie Recommendation System 
 Description: A recommendation system that suggests movies to users based on their preferences and viewing history. This project utilizes collaborative filtering and content-based methods to provide personalized recommendations.
 Crop Disease Identification
 Description: This project aims to identify and classify crop diseases using image recognition techniques. By analyzing images of crops, the system helps in diagnosing diseases and suggesting preventive measures.
