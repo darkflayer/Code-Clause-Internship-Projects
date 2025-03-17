@@ -1,6 +1,5 @@
 #Code-Clause Internship Projects
 
-
 Welcome to the repository for my data science internship at CodeClause. During this one-month internship, I worked on various projects to apply and enhance my data science skills. Each project was designed to address real-world problems and showcase different aspects of data analysis and machine learning.
 
 Projects
